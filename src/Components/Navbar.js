@@ -17,6 +17,9 @@ const Navbar = () => {
                 <li className="cursor-pointer">
                     <Link className="nav-link text-black" to="about">About</Link>
                 </li>
+                <li className="cursor-pointer">
+                    <a className="nav-link text-black" href="https://babbarraghav-portfolio.vercel.app/">Web Portfolio</a>
+                </li>
             </ul>
         </nav>
     )
